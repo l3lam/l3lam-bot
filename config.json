@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const {
 	prefix,+
-	token,NzczMjUzMzI3NjI1OTEyMzgy.X6GiRw.LwAEirzpmqDOnA5ezYeAf9dTIGs
+	token,NzczMjUzMzI3NjI1OTEyMzgy.X6GiRw.xBHH8KHjr6zfR_hhclPypfGXunY
 } = require('./config.json');
 const ytdl = require('ytdl-core');
